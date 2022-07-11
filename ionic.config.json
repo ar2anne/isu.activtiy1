@@ -1,0 +1,7 @@
+{
+  "name": "isu.activtiy1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
